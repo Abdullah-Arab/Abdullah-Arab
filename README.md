@@ -1,8 +1,7 @@
 # Hello, I'm Abdullah! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile/)]
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/AbdullahArab101))]
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdullah-arab-1451961b6/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/AbdullahArab101)
 Welcome to my GitHub profile! I'm a passionate Software Engineering student & Flutter Developer and love to learn and try new technologies to create innovative solutions. Here you'll find some of my projects and contributions in various areas.
 
 ## 🔭 Current Projects
@@ -33,15 +32,8 @@ I'm constantly expanding my knowledge and exploring new technologies. Currently,
 
 ## 💬 Get in Touch
 
-I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/) or [Twitter](https://twitter.com/AbdullahArab101).
+I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/abdullah-arab-1451961b6/) or [Twitter](https://twitter.com/AbdullahArab101).
 
-<--- ## 📝 Blog
-
-I occasionally write articles on [Medium](https://medium.com/@abdullah-arab) about Software Development in general. Check out my latest blog posts:
-
-- [Article 1](https://medium.com/@your-article-1): A brief description of the article.
-- [Article 2](https://medium.com/@your-article-2): A brief description of the article.
---->
 ## 🌟 Fun Fact
 
 "Simplicity is the key".
