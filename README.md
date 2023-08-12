@@ -34,6 +34,4 @@ I'm constantly expanding my knowledge and exploring new technologies. Currently,
 
 I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/abdullah-arab-1451961b6/) or [Twitter](https://twitter.com/AbdullahArab101).
 
-## 🌟 Fun Fact
-
-"Simplicity is the key".
+## 🌟 Have Fun
