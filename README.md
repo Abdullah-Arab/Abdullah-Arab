@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineering student & Fl
 
 ## 🔭 Current Projects
 
-- [IT Mentor][(https://github.com/your-project-1](https://github.com/IT-UOT/IT_mentor)): IT Mentor is an ongoing project designed to support new and current students at my university. Its primary objective is to provide a comprehensive overview of the university's available paths and courses, including their respective requirements. By offering this information, IT Mentor aims to assist students in planning their academic journey effectively. As the project continues to evolve, future plans involve incorporating additional features such as interactive course selection, student reviews, and valuable career resources.
+- [IT Mentor](https://github.com/IT-UOT/IT_mentor): IT Mentor is an ongoing project designed to support new and current students at my university. Its primary objective is to provide a comprehensive overview of the university's available paths and courses, including their respective requirements. By offering this information, IT Mentor aims to assist students in planning their academic journey effectively. As the project continues to evolve, future plans involve incorporating additional features such as interactive course selection, student reviews, and valuable career resources.
 
 ## 🌱 What I'm Currently Learning
 
