@@ -2,11 +2,14 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdullah-arab-1451961b6/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/AbdullahArab101)
+
 Welcome to my GitHub profile! I'm a passionate Software Engineering student & Flutter Developer and love to learn and try new technologies to create innovative solutions. Here you'll find some of my projects and contributions in various areas.
 
 ## 🔭 Current Projects
 
-- [IT Mentor](https://github.com/IT-UOT/IT_mentor): IT Mentor is an ongoing project designed to support new and current students at my university. Its primary objective is to provide a comprehensive overview of the university's available paths and courses, including their respective requirements. By offering this information, IT Mentor aims to assist students in planning their academic journey effectively. As the project continues to evolve, future plans involve incorporating additional features such as interactive course selection, student reviews, and valuable career resources.
+- [Qabas](https://github.com/IT-UOT/IT_mentor): IT Mentor is an ongoing project designed to support new and current students at my university. Its primary objective is to provide a comprehensive overview of the university's available paths and courses, including their respective requirements. By offering this information, IT Mentor aims to assist students in planning their academic journey effectively. As the project continues to evolve, future plans involve incorporating additional features such as interactive course selection, student reviews, and valuable career resources.
+
+- [Flutter Starter App](https://github.com/Abdullah-Arab/flutter_starter): This project is the starting point for a flutter project. It contains the basic setup for a flutter project. It also contains the setup for localization and internationalization. It also contains the setup for firebase.
 
 ## 🌱 What I'm Currently Learning
 
