@@ -1,6 +1,7 @@
 # Hello, I'm Abdullah! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdullah-arab-1451961b6/)
+
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/AbdullahArab101)
 
 Welcome to my GitHub profile! I'm a passionate Software Engineering student & Flutter Developer and love to learn and try new technologies to create innovative solutions. Here you'll find some of my projects and contributions in various areas.
