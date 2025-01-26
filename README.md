@@ -6,6 +6,7 @@
 Welcome to my GitHub profile! I'm a passionate Software Engineering student & Flutter Developer and love to learn and try new technologies to create innovative solutions. Here you'll find some of my projects and contributions in various areas.
 
 ![Abdullah-Arab's Stats](https://github-readme-stats.vercel.app/api?username=Abdullah-Arab&theme=dark&show_icons=true&hide_border=false&count_private=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abdullah-Arasb&theme=dark)](https://git.io/streak-stats)
 
 ## 🔭 Current Projects
 
