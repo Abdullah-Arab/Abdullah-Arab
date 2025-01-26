@@ -7,10 +7,6 @@ Welcome to my GitHub profile! I'm a passionate Software Engineering student & Fl
 
 ![Abdullah-Arab's Stats](https://github-readme-stats.vercel.app/api?username=Abdullah-Arab&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
-![Abdullah-Arab's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-Arab&theme=dark&hide_border=false)
-
-![Abdullah-Arab's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Arab&theme=dark&show_icons=true&hide_border=false&layout=compact)
-
 ## 🔭 Current Projects
 
 - [Qabas](https://github.com/IT-UOT/IT_mentor): IT Mentor is an ongoing project designed to support new and current students at my university. Its primary objective is to provide a comprehensive overview of the university's available paths and courses, including their respective requirements. By offering this information, IT Mentor aims to assist students in planning their academic journey effectively. As the project continues to evolve, future plans involve incorporating additional features such as interactive course selection, student reviews, and valuable career resources.
